@@ -10,7 +10,7 @@ This auto-restarter by iFanpS
 ==============================
 """
 print(copyright)
-nama = input("Taruh nama file: ")
+nama = input("Put name of enet file: ")
 
 def ulang():
     ulang1 = input("File is Crash wanna restart? (y/n) ")
