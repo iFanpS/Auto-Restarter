@@ -6,7 +6,7 @@ copyright = """
 ==============================
 This auto-restarter by iFanpS
 100% Made sendiri
-(c) iFanpS 2020
+(c) iFanpS 2021
 ==============================
 """
 print(copyright)
