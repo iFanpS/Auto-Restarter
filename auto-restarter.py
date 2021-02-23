@@ -26,5 +26,7 @@ def berjalan():
 if __name__ == "__main__":
     try:
          berjalan()
+         time.sleep(20)
+         ulang()
     except OSError:
         sys.exit("Error! please try again")
