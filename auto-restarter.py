@@ -13,7 +13,7 @@ print(copyright)
 nama = input("Put name of enet file: ")
 
 def ulang():
-    ulang1 = input("File is Crash wanna restart? (y/n) ")
+    ulang1 = input("File is Crash? wanna restart? (y/n) ")
     if ulang1 == "y":
         os.system(f"{nama}.exe")
     if ulang1 == "no":
